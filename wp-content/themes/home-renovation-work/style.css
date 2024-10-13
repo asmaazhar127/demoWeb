@@ -1,0 +1,130 @@
+/*
+Theme Name: Home Renovation Work
+Theme URI: https://www.buywpthemes.net/products/free-home-renovation-wordpress-theme/
+Author: Peccular
+Author URI: https://www.buywpthemes.net/
+Description: Home Renovation Work WordPress theme designed by our expert team can serve purpose of many types of businesses related to home remodeling, home refurbishment, house restoration, home reconstruction, interior designing, face lift of old villas and many other. If you undertake contracts or sub contracts in the field of home repair, any major and minor problem fixing Home Renovation work WordPress Theme will prove to be a perfect online platform to showcase your business, expertise, and type of interior design or home repair services you offer and undertake. Home modification and home improvement services are in huge and constant demand by home owners round the year as home repair, and improvement is something that all home owners need from time to time.  Professionals in home construction business should look at our home renovation work WordPress theme to get a real time feel of how their business will look online displayed on the theme designed by us and how they can display various types of services they render in order to attract customers looking for various types of home refurbishment and remodeling. Home Renovation work WordPress Theme offers absolute convenience and simplicity when it comes to maintenance of online presence.  Home Renovation work WordPress Theme comes with a user-friendly dashboard that even technically non-literate person can operate and use to update site to make it look relevant and updated at all times. Home Renovation work WordPress Theme is a responsive design through which you can promote and market your business, build reputation, social community, etc. Homepage layout of this theme flows very well divided into sections that will enable you to highlight various important aspects of your business to communicate with your audience. 
+Version: 0.1
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: home-renovation-work
+Slug: home-renovation-work
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 31vh;
+    margin-bottom: -7px;
+    min-height: 100px;
+    max-height: 150px;
+    bottom: 0;
+}
+/*.sliderinn-img{
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    opacity: 0.8;
+    background-image: url(assets/images/slideroly.jpg) !important;
+}*/
+.hero-style .slide-text{position: relative;}
+/*.hero-style .slide-text p:after{
+    content: "";
+    position: absolute;
+    left: 0%;
+   
+    right: 0;
+    bottom: 0;
+    top: 40px;
+    background-repeat: no-repeat;
+}*/
+.footer-area {
+/*     background-image: url(assets/images/footer.jpg) !important;*/
+    background: #4F5F65;
+    position: relative;
+    display: block;
+    overflow: initial;
+    z-index: 1;
+    padding:3em 0 0em 0;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+}
+.recentcomments a {
+    display: inline-block !important;
+    padding-left: 18px !important;
+    margin: 0 !important;
+}
+
+.slider-img-overlay {
+    position: absolute;
+    left: 0;
+    right: 52.5%;
+    top: 0;
+    bottom: 0;
+    background: #161415;
+    opacity: 1;
+    clip-path: polygon(0 0, 67% 0, 100% 100%, 0% 100%);
+}
+.slider-img-overlay-outer {
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    opacity: 1;
+    clip-path: polygon(0 0, 68% 0, 100% 100%, 0% 100%);
+}
+@media (max-width: 991px) {
+.slider-img-overlay-outer {
+    right: 35%;
+}
+.slider-img-overlay {
+    right: 38.5%;
+}
+
+}

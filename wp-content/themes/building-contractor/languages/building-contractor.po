@@ -1,0 +1,290 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: Building Contractor\n"
+"POT-Creation-Date: 2022-12-01 20:24+2\n"
+"PO-Revision-Date: 2022-12-01 20:24+2\n"
+"Last-Translator: \n"
+"Language-Team: classictemplate <support@theclassictemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template-home-page.php:41
+msgid "Explore Services"
+msgstr ""
+
+#: template-home-page.php:123
+msgid "Read More"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:21
+msgid "Edit"
+msgstr ""
+
+#: template-full-width.php:26
+msgid "Pages:"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: customizer.php:32
+msgid "Logo Width"
+msgstr ""
+
+#: customizer.php:52
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer.php:64
+msgid "Enable Site Title"
+msgstr ""
+
+#: customizer.php:79
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer.php:91
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: customizer.php:99
+msgid "Theme Options Panel"
+msgstr ""
+
+#: customizer.php:104
+msgid "Manage Header Section"
+msgstr ""
+
+#: customizer.php:105
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: customizer.php:117
+msgid "Check to show topbar"
+msgstr ""
+
+#: customizer.php:128
+msgid "Check To Show Sticky Header"
+msgstr ""
+
+#: customizer.php:139
+msgid "Check to Show preloader"
+msgstr ""
+
+#: customizer.php:148
+msgid "Add Top Header Text"
+msgstr ""
+
+#: customizer.php:163
+msgid "Menu Color"
+msgstr ""
+
+#: customizer.php:177
+msgid "Menu Hover Color"
+msgstr ""
+
+#: customizer.php:191
+msgid "SubMenu Color"
+msgstr ""
+
+#: customizer.php:205
+msgid "SubMenu Hover Color"
+msgstr ""
+
+#: customizer.php:211
+msgid "Manage Slider Section"
+msgstr ""
+
+#: customizer.php:213
+msgid "<p class=\"sec-title\">Manage Slider Section</p>"
+msgstr ""
+
+#: customizer.php:225 customizer.php:291
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: customizer.php:248
+msgid "Select Category to display Latest Post"
+msgstr ""
+
+#: customizer.php:249
+msgid "Size of image should be 570 x 570"
+msgstr ""
+
+#: customizer.php:261 customizer.php:338
+msgid "Add Button Text"
+msgstr ""
+
+#: customizer.php:270
+msgid "Add Button Link"
+msgstr ""
+
+#: customizer.php:277
+msgid "Manage Our Services Section"
+msgstr ""
+
+#: customizer.php:278
+msgid ""
+"<p class=\"sec-title\">Manage Blog Section</p> Select Pages from the "
+"dropdown for Blog."
+msgstr ""
+
+#: customizer.php:303
+msgid "Heading"
+msgstr ""
+
+#: customizer.php:315
+msgid "Sub Heading"
+msgstr ""
+
+#: customizer.php:326
+msgid "Select Category to display Services"
+msgstr ""
+
+#: customizer.php:344
+msgid "Manage Post Section"
+msgstr ""
+
+#: customizer.php:356
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:357
+msgid "This option work for blog page, archive page and search page."
+msgstr ""
+
+#: customizer.php:360
+msgid "Full"
+msgstr ""
+
+#: customizer.php:361
+msgid "Left"
+msgstr ""
+
+#: customizer.php:362
+msgid "Right"
+msgstr ""
+
+#: customizer.php:363
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:364
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:365
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:375
+msgid "Post Description Length"
+msgstr ""
+
+#: customizer.php:378
+msgid "No Content"
+msgstr ""
+
+#: customizer.php:379
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer.php:380
+msgid "Full Content"
+msgstr ""
+
+#: customizer.php:386
+msgid "Manage Footer Section"
+msgstr ""
+
+#: customizer.php:387
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: customizer.php:399
+msgid "Check to Enable Footer Widget"
+msgstr ""
+
+#: customizer.php:408
+msgid "Copyright Line"
+msgstr ""
+
+#: customizer.php:419
+msgid "Link"
+msgstr ""
+
+#: customizer.php:434
+msgid "Coypright Color"
+msgstr ""
+
+#: customizer.php:449
+msgid "BG Color"
+msgstr ""
+
+#: customizer.php:464
+msgid "Title Color"
+msgstr ""
+
+#: customizer.php:478
+msgid "Description Color"
+msgstr ""
+
+#: customizer.php:492
+msgid "List Color"
+msgstr ""
+
+#: customizer.php:501
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:74
+msgid "MENU"
+msgstr ""
+
+#: header.php:78
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:89
+msgid "CLOSE"
+msgstr ""
+
+#: footer.php:19
+msgid ""
+"https://www.theclassictemplates.com/wp-themes/free-contractor-wordpress-"
+"theme/"
+msgstr ""
+
+#: footer.php:19
+msgid "Building Contractor WordPress Theme"
+msgstr ""
+
+#: footer.php:26
+msgid "TOP"
+msgstr ""
